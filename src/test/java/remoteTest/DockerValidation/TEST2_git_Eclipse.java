@@ -7,6 +7,8 @@ public class TEST2_git_Eclipse {
 		
 		System.out.println("Updating Test 2 file and pushing to master");
 		System.out.println("Updating Test 2 file and pushing to master");
+		
+		System.out.println("checking from Eclipse to GitHub");
 
 	}
 
